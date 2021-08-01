@@ -1,18 +1,18 @@
-### Accounts
+### 🙋‍ ️Accounts
 - [Twitter](https://twitter.com/katsuyan121)
 - [Qiita](https://qiita.com/katsuyan)
 - [Speaker Deck](https://speakerdeck.com/katsuyan)
 - [Wantedly](https://www.wantedly.com/id/katsuyan)
 
-### Career
+### 🏢 Career
 
 - 2018/04~ ZOZO Technologies, Inc.
 
-### Interview
+### 🎤 Interview
 2021
 - [ZOZOTOWNの歴史を知ることは、新たな可能性を探ること 〜ユーザーコミュニケーションの向上を目指す、25歳リーダーの仕事論〜](https://technote.zozo.com/n/n8cf690b221c8)
 
-### Wrinting
+### 📝 Writing
 2017
 - [Embulkを利用したデータ転送基盤の構築](https://techblog.zozo.com/entry/embulk_data_transfer)
 - [本番DBと開発DBが乖離した無法地帯の整備](https://techblog.zozo.com/entry/refactoring_iqon_db)
