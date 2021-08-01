@@ -30,7 +30,7 @@
 - [JP1で管理するジョブの異常終了をClojureを利用しSlack通知する](https://techblog.zozo.com/entry/jp1_to_slack_in_clojure)
 
 2020
-- [https://techblog.zozo.com/entry/real-time-marketing-system](https://techblog.zozo.com/entry/real-time-marketing-system)
+- [リアルタイムマーケティングシステムの紹介とそのリプレイス計画](https://techblog.zozo.com/entry/real-time-marketing-system)
 
 2021
 - [ZOZOTOWNのPUSH配信基盤をFCMにシームレスに移行するための考慮ポイント](https://techblog.zozo.com/entry/migrate-push-notification-to-fcm)
