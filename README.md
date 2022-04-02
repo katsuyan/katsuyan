@@ -35,3 +35,6 @@
 2021
 - [ZOZOTOWNのPUSH配信基盤をFCMにシームレスに移行するための考慮ポイント](https://techblog.zozo.com/entry/migrate-push-notification-to-fcm)
 - [Aurora MySQLからCloud SQLへのレプリケーション構築における注意すべき2つのポイント](https://techblog.zozo.com/entry/replicate-from-aurora-mysql-to-cloud-sql)
+
+2022
+- [楽々スケール Digdag on GKE Autopilot の紹介とその運用Tips](https://techblog.zozo.com/entry/digdag-on-gke-autopilot)
