@@ -38,3 +38,6 @@
 
 2022
 - [楽々スケール Digdag on GKE Autopilot の紹介とその運用Tips](https://techblog.zozo.com/entry/digdag-on-gke-autopilot)
+
+2024
+- [大公開！バッチアプリケーションの品質を高めるZOZOの『バッチ開発ガイドライン』](https://techblog.zozo.com/entry/batch-development-guideline)
